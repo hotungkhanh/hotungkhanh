@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! I'm Tuka 👋
 
-<!--
-**hotungkhanh/hotungkhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a **Software Engineering graduate** passionate about **backend development**, **AI automation**, and building **scalable systems**. I am driven by learning new technologies, solving complex problems, and contributing to innovative projects in **agile environments**.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages:
+[![Languages](https://skillicons.dev/icons?i=py,java,kotlin,c,haskell,typescript,html,css,ts)](https://skillicons.dev)
+### Frameworks & Tools:
+[![Tools](https://skillicons.dev/icons?i=vscode,spring,mysql,arduino,git,gitlab,maven,react,gradle,docker,graphql,npm)](https://skillicons.dev)
+
+
+## Contact
+
+### Feel free to connect with me through
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tung-khanh-ho/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/hotuka18)
